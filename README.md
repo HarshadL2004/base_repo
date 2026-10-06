@@ -1,6 +1,6 @@
-# 💻 Ask Your Codebase (100% Local Multi-Language AI Assistant)
+# 💻 Codewise (100% Local Multi-Language AI Assistant)
 
-**Ask Your Codebase** is a 100% local, privacy-first tool that takes a project **ZIP file** or **Git Repository URL**, ingests the entire codebase, trains a **custom PyTorch embedding model from scratch** (with zero pretrained weights or external APIs), stores embeddings in `.npz` + `.json`, and answers user questions using a local **Ollama** LLM (or graceful chunk fallback mode).
+**Codewise** is a 100% local, privacy-first tool that takes a project **ZIP file** or **Git Repository URL**, ingests the entire codebase, trains a **custom PyTorch embedding model from scratch** (with zero pretrained weights or external APIs), stores embeddings in `.npz` + `.json`, and answers user questions using a local **Ollama** LLM (or graceful chunk fallback mode).
 
 ---
 
